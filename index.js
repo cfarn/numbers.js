@@ -24,8 +24,4 @@
 // console.log(test%bis)
 
 // 05 - Reste division euclidienne
-const val = [1,2,3,4,5]
-const modulo =999
-console.log(modulo%val)
 
-console.log()
